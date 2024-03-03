@@ -1,2 +1,2 @@
-# Public
-Public Repo
+# FlightBooking
+Flight Booking Application
